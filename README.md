@@ -1207,3 +1207,4 @@ fi
 
 
 # RESULT:
+The comment are executed successfully
